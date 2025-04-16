@@ -38,5 +38,8 @@ Grocery stores had the highest average ratings, suggesting better customer satis
 CONCLUSION
 This SQL project showcases my ability to perform end-to-end data analysis, clean inconsistent entries, and generate valuable business insights from retail data. The findings can help optimize product listings, understand customer preferences, and improve outlet strategies.
 
+![BlinkIT drawio](https://github.com/user-attachments/assets/02effa59-274f-4f75-9680-f613f6598e79)
+
+
 
 
