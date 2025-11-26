@@ -1,42 +1,50 @@
-# Blinkit---Analysis--SSMS
-Blinkit Dataset: SQL Analysis Project
-This project demonstrates my proficiency in SQL for data exploration and analysis using a retail dataset from Blinkit (formerly Grofers). The dataset includes product details, outlet information, sales figures, and customer ratings.
+Blinkit Analysis using SQL in SSMS
 
-TOOLS USED 
-SQL -(SSMS)
-Data Cleaning and Aggregation
-Analytical Queries
-Business Intelligence Concepts
+This project highlights a complete SQL based analysis of retail data from Blinkit formerly known as Grofers. The dataset includes detailed information on products, outlets, sales performance, and customer ratings. The objective of the project is to extract actionable insights by applying data cleaning, standardization, aggregation, and analytical querying techniques.
 
-KEY OBJECTIVES
-Standardize categorical data for consistency.
-Derive meaningful sales insights.
-Analyze outlet performance across different dimensions.
-Evaluate customer preferences based on item and outlet features.
+Tools Used
 
-TOTAL AND AVG SALES
-Total Sales: 1.20 million 
-Average Sales : 141 Thousand
+SQL in SSMS
+Data cleaning and standardization
+Aggregation and analytical query execution
+Business intelligence and retail analysis concepts
 
-🏪 OUTLET ANALYSIS
-Highest sales observed in outlets established in 2005 and 2007.
-Outlets located in Tier 1 cities contributed the most to total revenue.
-Medium-sized outlets had the highest percentage share of total sales.
+Key Objectives
 
-🧂 ITEM FAT CONTENT INSIGHTS
-'Low Fat' products sold more on average than 'Regular' ones.
-These also received slightly higher average ratings, indicating a customer preference.
+Ensure consistency by standardizing categorical variables
+Generate meaningful insights related to sales performance
+Evaluate outlet level performance across multiple attributes
+Identify customer preferences linked to product and outlet characteristics
 
-🍞 ITEM TYPE TRENDS
-Certain categories like Snacks, Dairy, and Beverages contributed significantly to overall sales.
-Packaged Foods and Household categories also saw consistent sales and ratings.
+Total and Average Sales
 
-🏢 OUTLET TYPE BREAKDOWN
-Supermarkets and Grocery stores dominate both sales and item variety.
-Grocery stores had the highest average ratings, suggesting better customer satisfaction.
+Total sales amounted to 1.20 million
+Average sales recorded at 141 thousand
 
-CONCLUSION
-This SQL project showcases my ability to perform end-to-end data analysis, clean inconsistent entries, and generate valuable business insights from retail data. The findings can help optimize product listings, understand customer preferences, and improve outlet strategies.
+Outlet Analysis
+
+Outlets established in 2005 and 2007 generated the highest sales
+Tier 1 city outlets contributed the maximum share to total revenue
+Medium sized outlets recorded the highest percentage contribution to sales
+
+Item Fat Content Insights
+
+Products tagged as Low Fat recorded higher average sales than Regular items
+Low Fat products also received marginally higher customer ratings, indicating a clear preference
+
+Item Type Trends
+
+Categories such as Snacks, Dairy, and Beverages emerged as major contributors to overall sales
+Packaged Foods and Household items also maintained consistent sales and ratings
+
+Outlet Type Breakdown
+
+Supermarkets and Grocery stores displayed strong performance in both sales and product variety
+Grocery stores topped the rating charts, showing higher customer satisfaction
+
+Conclusion
+
+This SQL project demonstrates the ability to execute end to end data analysis using structured queries. It includes cleaning inconsistent data, performing complex aggregations, and deriving insights that can support product strategy, outlet optimization, and customer centric decisions within retail businesses.
 
 ![BlinkIT drawio](https://github.com/user-attachments/assets/02effa59-274f-4f75-9680-f613f6598e79)
 
